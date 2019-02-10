@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: kit_tab_ribbon_override
+  m_Controller: {fileID: 9100000, guid: 152aa0bf8d830f14cbfe6d146a58bfe6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5cca0c58837db7243953fdb685bd7aff, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 829ec176f2631d8499a2669ab22c768a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 32304f4ae8601d64f80a19346badf9f7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8d36085628315b24e994cc5ab89d6316, type: 2}
